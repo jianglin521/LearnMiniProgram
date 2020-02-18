@@ -50,8 +50,8 @@
 			"list": [
 				{
 					"id": 0,
-					"name": "pages/home/home",
-					"pathName": "pages/home/home",
+					"name": "分类",
+					"pathName": "pages/category/category",
 					"query": "",
 					"scene": null
 				}
